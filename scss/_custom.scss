@@ -1,0 +1,32 @@
+// Grid system
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xlg: 1366px,
+  fhd: 1920px,
+  rt: 2560px,
+  rt15: 2880px,
+  uhd: 3840px,
+  4k: 4096px,
+  8k: 8192px,
+);
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xlg: 1336px,
+  fhd: 1890px,
+  rt: 2560px,
+  rt15: 2850px,
+  uhd: 3900px,
+  4k: 4066px,
+  8k: 8162px,
+);

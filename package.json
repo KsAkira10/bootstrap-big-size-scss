@@ -1,0 +1,12 @@
+{
+  "name": "@ksakira10/bootstrap-big-size",
+  "version": "1.0.0",
+  "description": "Bootstrap Custom for Big Size Screen",
+  "sass": "scss/custom",
+  "scripts": {},
+  "author": "Lucas Akira Uehara <akirauehara@hotmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
